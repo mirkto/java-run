@@ -21,7 +21,6 @@ public class PrimitivesVSBoxedBattle {
     }
 
     private static void primitives() {
-
         int testArr1[] = new int[1000000];
         int i = 0;
         for (int elem: testArr1) {
